@@ -2,3 +2,4 @@ Flask==2.0.3
 googletrans==4.0.0rc1
 streamlit
 gunicorn
+werkzeug==2.0.3
