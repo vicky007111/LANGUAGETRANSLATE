@@ -1,10 +1,10 @@
 import streamlit as st
 import requests
 
-# Define the backend URL (replace with your actual backend URL when hosted)
+
 BACKEND_URL = "http://localhost:5000/translate"
 
-# Set up the Streamlit interface
+
 st.title('LANGUAGE TRANSLATOR')
 
 text_to_translate = st.text_area('Enter the text you want to translate:', '')
