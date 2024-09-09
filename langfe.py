@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-BACKEND_URL = "https://languagetranslate-nf8e.onrender.com/"
+BACKEND_URL="https://languagetranslate-nf8e.onrender.com"
 
 
 st.title('LANGUAGE TRANSLATOR')
