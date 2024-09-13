@@ -7,7 +7,7 @@ BACKEND_URL="https://languagetranslate-nf8e.onrender.com/translate"
 
 st.title('LANGUAGE TRANSLATOR')
 
-text_to_translate = st.text_area('Enter the text you want to translate:', '')
+text_to_translate = st.text_area('Enter the text you want to translate(Any Language):', '')
 
 languages = {
     'English':'en',
