@@ -3,3 +3,5 @@ googletrans==4.0.0rc1
 streamlit
 gunicorn
 werkzeug==2.0.3
+opencv-python
+py-opengl
